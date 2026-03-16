@@ -1,4 +1,5 @@
 # CatDOS 🐱💾
+<img width="1024" height="1024" alt="ca" src="https://github.com/user-attachments/assets/22fa08d9-f27a-46e4-900f-8498559c3c36" />
 **CatDOS** is a fun and lightweight fork of **DOSBox** created by **CrakkoCat**.  
 It keeps the core compatibility of DOSBox while adding usability improvements, small performance tweaks, and a few cat-themed extras.
 
