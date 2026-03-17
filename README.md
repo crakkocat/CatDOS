@@ -19,7 +19,7 @@ CatDOS is designed to make running classic DOS games and software simple, stable
 
 ---
 
-## Installation
+## Installation for a desktop OS
 
 1. Download the latest CatDOS release.
 2. Extract the archive to a folder of your choice.
@@ -28,6 +28,22 @@ CatDOS is designed to make running classic DOS games and software simple, stable
 
 Note: 
 CatDOS will show up as DOSBox in the window title or system process list.  
+This is the intended behavior.
+
+## Installation for iOS/iPadOS
+You MUST enable Developer Mode.
+1. Download CatDOS.ipa
+2. Download AltServer or Sideloadly
+3. Download iTunes and iCloud (non-Microsoft Store versions) 
+iTunes: https://support.apple.com/en-us/106372
+iCloud: http://updates-http.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe
+I recommend to use Sideloadly.
+AltServer: Install AltStore, transfer CatDOS.ipa, then install.
+Sign AltStore.
+Sideloadly: Drag CatDOS.ipa to the square.
+Sign CatDOS.
+Note:
+CatDOS will show up as iDOS 2 on the home screen.
 This is the intended behavior.
 
 ---
